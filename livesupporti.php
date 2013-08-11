@@ -56,7 +56,7 @@ function livesupporti_settings() {
 	$hidLiveSupporti = 'hidLiveSupporti';
 
 	if(isset($_POST[$hidLiveSupporti]) && $_POST[$hidLiveSupporti] == 'IsPostBack') {
-		update_option( 'txtLicense', $_POST['txtLicense']);
+		update_option('txtLicense', $_POST['txtLicense']);
 	}
 ?>
 
