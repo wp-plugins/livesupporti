@@ -86,7 +86,7 @@ function livesupporti_activate_plugin() {
 function redirectToLiveSupportiAdminPage() {
     if (get_option('redirectToLiveSupportiAdminPage', false)) {
         delete_option('redirectToLiveSupportiAdminPage');
-    wp_redirect(admin_url('admin.php?page=livesupporti-live-support-chat-software-for-wordpress/livesupporti.php'));
+    wp_redirect(admin_url('admin.php?page=livesupporti/livesupporti.php'));
     }
 }
 
