@@ -13,9 +13,9 @@ LiveSupporti plugin for WordPress allows you to add live support chat to your Wo
 
 **How to install**
 
-1. Create your free account at <a href="http://livesupporti.com/signup" target=\"_blank\">livesupporti.com/signup</a><br/>
-2. Log into your WordPress admin panel, go to the 'Plugins' menu, click 'Add New', search for 'livesupporti' plugin and install it.</br>
-3. Click on 'LiveSupporti' menu on the left and enter your product key. You're done!
+1. Create your free account at <a href="http://livesupporti.com/signup" target=\"_blank\">livesupporti.com/signup</a>
+2. Log into your WordPress admin panel, go to the **Plugins** menu, click **Add New**, search for **livesupporti** plugin and install it.
+3. Click on **LiveSupporti** menu on the left and enter your product key. You're done!
 
 
 
@@ -24,12 +24,12 @@ Go to <a href=\"http://livesupporti.com\" target=\"_blank\" title=\"LiveSupporti
 
 == Installation ==
 
-1. Create your free account at <a href="http://livesupporti.com/signup" target=\"_blank\">livesupporti.com/signup</a><br/>
-2. Log into your WordPress admin panel and go to the **Plugins** menu.<br/>
-3. Click **Add New** and search for **livesupporti**.<br/>
-4. Click **Install Now**.<br/>
-5. Click **Settings**, and then **LiveSupporti**.</br>
-6. Enter your <a href="http://livesupporti.com/pk" target=\"_blank\" title="Get product key">product key</a> and click **Save**.</br>
+1. Create your free account at <a href="http://livesupporti.com/signup" target=\"_blank\">livesupporti.com/signup</a>.
+2. Log into your WordPress admin panel and go to the **Plugins** menu.
+3. Click **Add New** and search for **livesupporti**.
+4. Click **Install Now**.
+5. Click **Settings**, and then **LiveSupporti**.
+6. Enter your <a href="http://livesupporti.com/pk" target=\"_blank\" title="Get product key">product key</a> and click **Save**.
 
 == Frequently Asked Questions ==
 
