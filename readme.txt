@@ -1,6 +1,6 @@
 === Free Live Support Chat ===
 Contributors: LiveSupporti
-Tags: live chat, live support, live support chat, live chat support, livesupporti, live chat widget, livechat, livehelp, live help, live help widget, live support software, live chat software, chat support, chat plugin, chat button, customer chat, chat module, chat widget, chat live, plugin chat, support chat, live chat button, online chat, chat online, online customer chat, customer support, support customer, chatlive, livehelp software, live help plugin, chat, live help button, livehelp button, livehelp chat, help desk, helpdesk, zendesk, olark, zopim, customer support online, live customer support, customer support software
+Tags: live chat, live support, live support chat, live chat support, livesupporti, live chat widget, livechat, livehelp, live help, live help widget, live support software, live chat software, chat support, chat plugin, chat button, customer chat, chat module, chat widget, chat live, plugin chat, support chat, live chat button, online chat, chat online, online customer chat, customer support, support customer, chatlive, livehelp software, live help plugin, chat, live help button, livehelp button, livehelp chat, help desk, helpdesk, zendesk, olark, zopim, customer support online, live customer support, customer support software, wordpress live chat
 Requires at least: 3.5.1
 Tested up to: 3.5.1
 Stable tag: tags/1.0
