@@ -32,6 +32,10 @@ Go to <a href=\"http://livesupporti.com\" target="_blank" title=\"LiveSupporti\"
 4. Click **Install Now**, and then **Activate Plugin**.
 5. Enter your <a href="http://livesupporti.com/pk" target="_blank" title="Get product key">product key</a> and click **Save**.
 
+Watch video:
+
+[youtube http://www.youtube.com/watch?v=H4MXtFEVXYU]
+
 == Frequently Asked Questions ==
 
 = Is it free? =
