@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 	Plugin Name: LiveSupporti
 	Plugin URI: http://livesupporti.com
@@ -22,6 +22,8 @@
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
+add_action('init', 'do_output_buffer');
+
 add_action('wp_footer', 'livesupporti_init');
 
 add_action('admin_menu', 'getLiveSupportiAdminMenu');
@@ -29,6 +31,10 @@ add_action('admin_menu', 'getLiveSupportiAdminMenu');
 register_activation_hook( __FILE__, 'livesupporti_activate_plugin' );
 
 add_action('admin_init', 'redirectToLiveSupportiAdminPage');
+
+function do_output_buffer() {
+        ob_start();
+}
 
 function livesupporti_init() {
 	$license = get_option('txtLicense');
@@ -86,7 +92,7 @@ function livesupporti_activate_plugin() {
 function redirectToLiveSupportiAdminPage() {
     if (get_option('redirectToLiveSupportiAdminPage', false)) {
         delete_option('redirectToLiveSupportiAdminPage');
-    wp_redirect(admin_url('admin.php?page=livesupporti/livesupporti.php'));
+    	wp_redirect(admin_url('admin.php?page=livesupporti/livesupporti.php'));
     }
 }
 
