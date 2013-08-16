@@ -6,7 +6,7 @@
 	Version: 1.0.0
 	Author: LiveSupporti
 	Author URI: http://livesupporti.com
-  License: GPL2
+	License: GPL2
   
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as 
@@ -51,7 +51,7 @@ function addLiveSupportiScript($license) {
 function getLiveSupportiAdminMenu() {
 	$icon = "http://livesupporti.com/Images/favicon.png";
 	add_menu_page('LiveSupporti', 'LiveSupporti', 10, dirname( __FILE__ ) . '/livesupporti.php', '', $icon);
-	add_submenu_page(dirname( __FILE__ ) . '/livesupporti.php', 'Settings', 'Settings', 'manage_options', dirname( __FILE__ ) . '/livesupporti.php', 'livesupporti_settings');	
+	add_submenu_page(dirname( __FILE__ ) . '/livesupporti.php', 'Settings', 'Settings', 'manage_options', dirname( __FILE__ ) . '/livesupporti.php', 'livesupporti_settings');
 }
 
 function livesupporti_settings() {
@@ -65,7 +65,6 @@ function livesupporti_settings() {
 		update_option('txtLicense', $_POST['txtLicense']);
 	}
 ?>
-
 <form name="form1" method="post" action="">
 	<input type="hidden" name="<?php echo $hidLiveSupporti; ?>" value="IsPostBack">
 	<h1 style="color:#1FB9F2">Getting Started with LiveSupporti</h1>
@@ -79,11 +78,9 @@ function livesupporti_settings() {
 		<input type="submit" name="Submit" class="button-primary" value="<?php esc_attr_e('Save') ?>" />
 	</p>
 </form>
-
 <?php
 }
 ?>
-
 <?php
 function livesupporti_activate_plugin() {
     add_option('redirectToLiveSupportiAdminPage', true);
@@ -95,5 +92,4 @@ function redirectToLiveSupportiAdminPage() {
     	wp_redirect(admin_url('admin.php?page=livesupporti/livesupporti.php'));
     }
 }
-
 ?>
