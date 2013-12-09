@@ -44,7 +44,7 @@ Yes. You can create your account at <a href="http://livesupporti.com/signup" tar
 
 == Screenshots ==
 
-1. Color customization.
+1. Colour customization.
 2. Live support chat on your website.
 3. Settings in WordPress.
 4. Agent's panel.
