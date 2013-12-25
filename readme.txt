@@ -40,7 +40,7 @@ Yes. You can use our **Forever Free Plan**.
 
 = Do I need a LiveSupporti account to use the plugin? =
 
-Yes. You can create your account at <a href="http://livesupporti.com/signup" target="_blank">here</a>.
+Yes. You can create your account <a href="http://livesupporti.com/signup" target="_blank">here</a>.
 
 == Screenshots ==
 
