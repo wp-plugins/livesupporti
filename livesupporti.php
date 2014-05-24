@@ -66,7 +66,10 @@ function livesupporti_settings() {
 
 	if(isset($_POST[$hidLiveSupporti]) && $_POST[$hidLiveSupporti] == 'IsPostBack') {
 		update_option('txtLicense', $_POST['txtLicense']);
-	}
+?>
+<div><p><?php _e('<span style="color:#61D400">Changes have been saved.</span> <strong><a href="https://livesupporti.com/live">Start using LiveSupporti now.</a></strong>', 'menu-general' );?></p></div>
+<?php
+}
 ?>
 <form name="form1" method="post" action="">
 	<input type="hidden" name="<?php echo $hidLiveSupporti; ?>" value="IsPostBack">
