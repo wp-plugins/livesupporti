@@ -32,9 +32,9 @@ register_activation_hook( __FILE__, 'livesupporti_activate_plugin' );
 
 add_action('admin_init', 'redirectToLiveSupportiAdminPage');
 
-function do_output_buffer() {
-        ob_start();
-}
+//function do_output_buffer() {
+//        ob_start();
+//}
 
 function livesupporti_init() {
 	$license = get_option('txtLicense');
