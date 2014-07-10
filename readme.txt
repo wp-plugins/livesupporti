@@ -28,7 +28,7 @@ Go to <a href=\"http://livesupporti.com\" target="_blank" title=\"LiveSupporti\"
 
 1. Create your free account at <a href="http://livesupporti.com/signup" target="_blank">livesupporti.com/signup</a>
 2. Log into your WordPress admin panel and go to the **Plugins** menu.
-3. Click **Add New** and search for **livesupporti**.
+3. Click **Add New**, enter **livesupporti** and click **Search Plugins**.
 4. Click **Install Now**, and then **Activate Plugin**.
 5. Enter your <a href="http://livesupporti.com/pk" target="_blank" title="Get product key">product key</a> and click **Save**.
 
