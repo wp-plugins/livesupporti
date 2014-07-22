@@ -22,6 +22,10 @@ Watch video:
 [youtube http://www.youtube.com/watch?v=H4MXtFEVXYU]
 
 
+**Is it really free?**
+Yes. Our **Forever Free** plan is free of charge.
+
+
 Go to <a href=\"http://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
 
 == Installation ==
