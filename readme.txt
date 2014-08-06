@@ -26,6 +26,7 @@ Watch video:
 Yes. Our **Forever Free** plan is free of charge.
 
 **Features**
+
 * **Customizable colors**
 * **Multilingual support**
 * **Offline messages**
