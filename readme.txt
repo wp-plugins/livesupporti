@@ -22,22 +22,23 @@ Watch video:
 [youtube http://www.youtube.com/watch?v=H4MXtFEVXYU]
 
 
+
 **Is it really free?**
 Yes. Our **Forever Free** plan is free of charge.
 
 **Features**
 
-* **Customizable colors**
-* **Multilingual support**
-* **Offline messages**
-* **Automatic messages**
-* **Send files**
-* **Canned responses**
-* **Agent photo**
-* **SSL encryption**
-* **Typing Notifications**
-* **Geolocation**
-* **Sound notifications**
+* Customizable colors
+* Multilingual support
+* Offline messages
+* Automatic messages
+* Send files
+* Canned responses
+* Agent photo
+* SSL encryption
+* Typing Notifications
+* Geolocation
+* Sound notifications
 
 
 Go to <a href=\"http://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
