@@ -37,6 +37,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Canned responses
 * Unlimited domains
 * Sound notifications
+* Desktop notifications
 * Agent photo
 * SSL encryption
 * Typing Notifications
