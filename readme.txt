@@ -40,6 +40,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Sound notifications
 * Desktop notifications
 * Agent photo
+* Block/unblock user
 * SSL encryption
 * Typing Notifications
 * Geolocation
