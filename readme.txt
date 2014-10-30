@@ -5,7 +5,7 @@ Requires at least: 2.8.5
 Tested up to: 4.0
 Stable tag: tags/1.0
 
-Add Free Live Support Chat on your WordPress website.
+Free Live Support Chat for your WordPress website.
 
 == Description ==
 
