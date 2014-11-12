@@ -44,7 +44,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * SSL encryption
 * Typing Notifications
 * Geolocation
-* Sound notifications
+* Custom sounds
 
 
 Go to <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
