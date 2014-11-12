@@ -41,10 +41,10 @@ Yes. Our **Forever Free** plan is free of charge.
 * Desktop notifications
 * Agent photo
 * Block/unblock user
+* Custom sounds
 * SSL encryption
 * Typing Notifications
 * Geolocation
-* Custom sounds
 
 
 Go to <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
