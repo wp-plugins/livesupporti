@@ -44,6 +44,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Custom sounds
 * SSL encryption
 * Typing Notifications
+* Statistics
 * Geolocation
 
 
