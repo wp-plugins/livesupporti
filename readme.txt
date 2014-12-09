@@ -31,6 +31,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * **Forever free plan** (free of charge)
 * Customizable colors
 * Multilingual support
+* Custom logo
 * Offline messages
 * Automatic messages
 * Send files
