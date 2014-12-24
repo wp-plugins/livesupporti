@@ -29,6 +29,7 @@ Yes. Our **Forever Free** plan is free of charge.
 **Features**
 
 * **Forever free plan** (free of charge)
+* No daly chat limits
 * Customizable colors
 * Multilingual support
 * Custom logo
