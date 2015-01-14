@@ -26,6 +26,8 @@ Watch video:
 **Is it really free?**
 Yes. Our **Forever Free** plan is free of charge.
 
+Our **iPhone** and **iPad** App will be available soon. Feel free to join the Beta App <a href="https://livesupporti.com/live-chat-iphone-beta" target="_blank">Beta App</a>
+
 **Features**
 
 * **Forever free plan** (free of charge)
