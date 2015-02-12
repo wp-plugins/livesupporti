@@ -44,7 +44,7 @@ function livesupporti_init() {
 function addLiveSupportiScript($license) {
 	echo '
 			<!-- Live support chat by LiveSupporti - http://livesupporti.com -->
-			<script src="https://livesupporti.com/Scripts/client.js?acc='.$license.'"></script>
+			<script src="https://livesupporti.com/Scripts/client2.js?acc='.$license.'"></script>
 	';
 }
 
