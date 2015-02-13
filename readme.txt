@@ -13,7 +13,7 @@ LiveSupporti plugin for WordPress allows you to add free live support chat to yo
 
 Our **iPhone** and **iPad** Beta App is available. Feel free to join the <a href="https://livesupporti.com/live-chat-iphone-beta" target="_blank">Beta App</a>
 
-The **Android** App will be available tomorrow.
+LiveSupporti Beta for **Android** is available. Get it from <a href="https://livesupporti.com/live-chat-android-beta" target="_blank">here</a>
 
 **How to install**
 
