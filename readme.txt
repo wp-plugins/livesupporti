@@ -36,7 +36,7 @@ Yes. Our **Forever Free** plan is free of charge.
 
 * **Forever free plan** (free of charge)
 * No daily chat limits
-* Customizable colors
+* Customizable widget colors
 * Multilingual support
 * Custom logo
 * Offline messages
