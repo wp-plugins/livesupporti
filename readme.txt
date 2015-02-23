@@ -54,7 +54,6 @@ Yes. Our **Forever Free** plan is free of charge.
 * Typing Notifications
 * Statistics
 * Geolocation
-* White label
 
 
 Go to <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
