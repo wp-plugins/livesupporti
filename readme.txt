@@ -17,7 +17,7 @@ Get LiveSupporti Beta for **Android** <a href="https://livesupporti.com/live-cha
 
 **How to install**
 
-1. Create your free account at <a href="http://livesupporti.com/signup" target="_blank">livesupporti.com/signup</a>
+1. Create your free account at <a href="http://livesupporti.com/signup" target="_blank">https://livesupporti.com/signup</a>
 2. Log into your WordPress admin panel, go to the **Plugins** menu, click **Add New**, search for **livesupporti** plugin and install it.
 3. Click on **LiveSupporti** menu on the left and enter your product key. You're done!
 
