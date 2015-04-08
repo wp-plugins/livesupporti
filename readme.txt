@@ -1,6 +1,6 @@
 === Free Live Support Chat ===
 Contributors: LiveSupporti
-Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, live help, free live support, free live chat, live chat support  
+Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, live help, free live support, free live chat, live chat support, live chat
 Requires at least: 2.8.5
 Tested up to: 4.1.1
 Stable tag: tags/1.0
