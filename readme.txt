@@ -50,6 +50,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Transfer between agents
 * Sound notifications
 * Desktop notifications
+* Responsive design
 * Agent photo
 * Block/unblock user
 * Ban/unban visitor
