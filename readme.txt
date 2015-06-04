@@ -48,7 +48,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Canned responses
 * Unlimited domains
 * Transfer between agents
-* Groups (coming soon)
+* Groups
 * Sound notifications
 * Desktop notifications
 * Responsive design
