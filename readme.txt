@@ -41,6 +41,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Customizable widget colors
 * Multilingual support
 * Custom logo
+* Custom size
 * Skins
 * Offline messages
 * Automatic messages
