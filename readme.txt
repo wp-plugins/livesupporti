@@ -1,4 +1,4 @@
-=== Free Live Support Chat ===
+=== Free Live Chat Support ===
 Contributors: LiveSupporti
 Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, live help, free live support, free live chat, live chat support, live chat
 Requires at least: 2.8.5
