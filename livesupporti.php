@@ -3,7 +3,7 @@
 	Plugin Name: LiveSupporti
 	Plugin URI: http://livesupporti.com
 	Description: A plugin that allows to add <strong>live support chat</strong> on a WordPress website. To get started just click <strong>Activate</strong>.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: LiveSupporti
 	Author URI: http://livesupporti.com
 	License: GPL2
