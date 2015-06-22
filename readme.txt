@@ -43,6 +43,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Custom logo
 * Custom window size
 * Skins
+* Agent statuses
 * Offline messages
 * Automatic messages
 * Send files
