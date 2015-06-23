@@ -64,7 +64,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Geolocation
 
 
-Go to <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
+Please visit <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
 
 == Installation ==
 
