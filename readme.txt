@@ -54,7 +54,8 @@ Yes. Our **Forever Free** plan is free of charge.
 * Sound notifications
 * Desktop notifications
 * Responsive design
-* Draggable window
+* Draggable chat window
+* Embedded chat window
 * Agent photo
 * Block/unblock user
 * Ban/unban visitor
