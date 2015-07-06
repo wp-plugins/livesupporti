@@ -80,7 +80,7 @@ Please visit <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSu
 
 = Is it free? =
 
-Yes. You can use our **Forever Free Plan** free of charge.
+**Yes**. You can use our **Forever Free Plan** free of charge.
 
 = Do I need a LiveSupporti account to use the plugin? =
 
