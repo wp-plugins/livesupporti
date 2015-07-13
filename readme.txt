@@ -61,6 +61,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Block/unblock visitr
 * Ban/unban visitor
 * Custom sounds
+* Animations
 * SSL encryption
 * Typing Notifications
 * Statistics
