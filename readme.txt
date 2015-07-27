@@ -46,6 +46,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Agent statuses
 * Offline messages
 * Automatic messages
+* Proactive chat
 * Send files
 * Canned responses
 * Unlimited domains
