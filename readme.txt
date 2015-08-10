@@ -10,7 +10,7 @@ Free Live Support Chat for your WordPress website.
 == Description ==
 
 LiveSupporti plugin for WordPress allows you to add free live support chat to your WordPress website so you can chat with your visitors and provide great customer support.
-You can use **Forever Free Plan free of charge** with unlimited domains, unlimited simultaneous chats, SSL encryption and chat history.
+You can use **Forever Free Plan (free of charge)** with unlimited domains, unlimited simultaneous chats, SSL encryption and chat history.
 
 Get LiveSupporti Beta for **iPhone**, **iPad** and **iPod touch** from <a href="https://livesupporti.com/live-support-chat-iphone-ipad-website" target="_blank">here</a>
 
