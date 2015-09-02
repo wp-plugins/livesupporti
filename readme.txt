@@ -2,7 +2,7 @@
 Contributors: LiveSupporti
 Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, livehelp, free live support, free live chat, live chat support, live chat
 Requires at least: 2.8.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: tags/1.0.1
 
 Free Live Support Chat for your WordPress website.
