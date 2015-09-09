@@ -1,6 +1,6 @@
 === Free Live Chat Support ===
 Contributors: LiveSupporti
-Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, livehelp, free live support, free live chat, live chat support, live chat
+Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, livesupport, free live support, free live chat, live chat support, live chat
 Requires at least: 2.8.5
 Tested up to: 4.3
 Stable tag: tags/1.0.1
@@ -53,6 +53,8 @@ Yes. Our **Forever Free** plan is free of charge.
 * Transfer between agents
 * Groups
 * Filters
+* Eye-catchers
+* Social logins
 * Sound notifications
 * Desktop notifications
 * Responsive design
