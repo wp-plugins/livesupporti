@@ -1,6 +1,6 @@
 === Free Live Chat Support ===
 Contributors: LiveSupporti
-Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, livesupport, free livechat, online chat, live chat support, live chat
+Tags: widget, Post, plugin, admin, posts, sidebar, livechat, live support, livesupport, free live chat, online chat, live chat support, live chat
 Requires at least: 2.8.5
 Tested up to: 4.3
 Stable tag: tags/1.0.1
@@ -69,7 +69,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Typing Notifications
 * Statistics
 * Geolocation
-* Demo (available soon)
+* Demo
 
 
 Please visit <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
