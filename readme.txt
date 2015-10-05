@@ -16,6 +16,8 @@ Get LiveSupporti Beta for **iPhone**, **iPad** and **iPod touch** from <a href="
 
 Get LiveSupporti Beta for **Android** from <a href="https://livesupporti.com/live-support-chat-android-website" target="_blank">here</a>
 
+See the Demo <a href="http://livesupporti.com/live-chat-demo" target="_blank">here</a>.
+
 **How to install**
 
 1. Create your free account at <a href="http://livesupporti.com/signup" target="_blank">https://livesupporti.com/signup</a>
