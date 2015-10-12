@@ -64,6 +64,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Responsive design
 * Draggable chat window
 * Embedded chat window
+* Pop-up chat window
 * Agent photo
 * Block/unblock visitor
 * Ban/unban visitor
