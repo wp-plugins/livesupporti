@@ -52,7 +52,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Proactive chat
 * Send files
 * Canned responses
-* Unlimited domains
+* Unlimited webistes
 * Transfer between agents
 * Groups
 * Filters
