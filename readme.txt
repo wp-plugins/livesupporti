@@ -42,7 +42,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Unlimited concurrent chats
 * Customizable widget colors
 * Custom languages
-* Custom logo
+* Custom company logo
 * Custom sounds
 * Custom window size
 * Skins
