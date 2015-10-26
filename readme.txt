@@ -47,12 +47,13 @@ Yes. Our **Forever Free** plan is free of charge.
 * Custom window size
 * Skins
 * Agent statuses
+* Agent job title
 * Offline messages
 * Automatic messages
 * Proactive chat
 * Send files
 * Canned responses
-* Unlimited webistes
+* Unlimited websites
 * Transfer between agents
 * Groups
 * Filters
@@ -68,7 +69,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Agent photo
 * Block/unblock visitor
 * Ban/unban visitor
-* Animations
+* Animated chat box
 * SSL encryption
 * Typing Notifications
 * Statistics
