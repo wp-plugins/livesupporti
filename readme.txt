@@ -74,7 +74,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Typing Notifications
 * Statistics
 * Geolocation
-* Demo
+* <a href="http://livesupporti.com/live-chat-demo" target="_blank">Demo</a>
 
 
 Please visit <a href=\"https://livesupporti.com\" target="_blank" title=\"LiveSupporti\">livesupporti.com</a> for more information.
