@@ -32,7 +32,7 @@ Watch video:
 
 **Is it really free?**
 
-Yes. Our **Forever Free** plan is free of charge.
+Yes. Our **Forever Free** plan is free of charge and includes 150 chats per month.
 
 
 
@@ -66,6 +66,7 @@ Yes. Our **Forever Free** plan is free of charge.
 * Draggable chat window
 * Embedded chat window
 * Pop-up chat window
+* Chat transcripts
 * Agent photo
 * Block/unblock visitor
 * Ban/unban visitor
