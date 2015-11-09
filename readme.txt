@@ -40,6 +40,7 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 
 * **Free plan** (free of charge)
 * Unlimited concurrent chats
+* Unlimited websites
 * Customizable widget colors
 * Custom languages
 * Custom company logo
@@ -53,7 +54,6 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 * Proactive chat
 * Send files
 * Canned responses
-* Unlimited websites
 * Transfer between agents
 * Groups
 * Filters
