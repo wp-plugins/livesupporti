@@ -52,7 +52,7 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 * Offline messages
 * Automatic messages
 * Proactive chat
-* Send files
+* Send and receive files
 * Canned responses
 * Transfer between agents
 * Groups
