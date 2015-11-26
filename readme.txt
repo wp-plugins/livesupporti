@@ -46,7 +46,7 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 * Custom company logo
 * Custom sounds
 * Custom chat box size
-* Skins
+* Chat box skins
 * Agent statuses
 * Agent job title
 * Offline messages
