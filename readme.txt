@@ -71,6 +71,7 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 * Block/unblock visitor
 * Ban/unban visitor
 * Animated chat box
+* Emoticons
 * SSL encryption
 * Typing Notifications
 * Statistics
