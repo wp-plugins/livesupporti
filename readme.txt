@@ -63,9 +63,9 @@ Yes. Our **Forever Free** plan is free of charge and includes 150 chats per mont
 * Sound notifications
 * Desktop notifications
 * Responsive design
-* Draggable chat window
-* Embedded chat window
-* Pop-up chat window
+* Draggable chat box
+* Embedded chat box
+* Pop-up chat box
 * Chat transcripts
 * Agent photo
 * Block/unblock visitor
